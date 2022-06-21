@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@tivac/changesets-test-a": "file:../a"
+    "@tivac/changesets-test-a": "^1.1.0"
   }
 }
