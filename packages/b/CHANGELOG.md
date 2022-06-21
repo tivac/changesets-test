@@ -1,5 +1,11 @@
 # @tivac/changesets-test-b
 
+## 1.0.2
+
+### Patch Changes
+
+- 6822fa6: Corrected dependency on @tivac/changesets-test-a
+
 ## 1.0.1
 
 ### Patch Changes
