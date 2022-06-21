@@ -1,5 +1,16 @@
 # @tivac/changesets-test-b
 
+## 2.0.0
+
+### Major Changes
+
+- 4409a24: ah seems like a better fit for what I'm going for here
+
+### Patch Changes
+
+- Updated dependencies [4409a24]
+  - @tivac/changesets-test-a@2.0.0
+
 ## 1.0.2
 
 ### Patch Changes
